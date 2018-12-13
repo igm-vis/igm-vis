@@ -18,7 +18,7 @@ the slider.
 If you find interesting galaxy/absorber pairs, use the numeric keys and 'G' to keep track and use
 'D' to save these to disk for your own detailed analysis.  Enjoy!
 
-### `>> ` [Click here to run!](https://creativecodinglab.github.io/Intergalactic/intergalactic.html) `<<`
+### `>> ` [Click here to run!](https://igm-vis.github.io/igm-vis/intergalactic.html) `<<`
 
 ## Keystrokes Quick Reference<br/>
 arrow keys: move reference point<br/>

@@ -15,10 +15,10 @@ control the height and thickness of these lines according to different propertie
 the range of redshift shown in the spectral windows with the sizing bar between the drop-downs and
 the slider.
 
-[![IGM-Vis](http://img.youtube.com/vi/3ZVaExEVZOk/1.jpg)](https://www.youtube.com/watch?v=3ZVaExEVZOk "IGM-Vis")
-
 If you find interesting galaxy/absorber pairs, use the numeric keys and 'G' to keep track and use
 'D' to save these to disk for your own detailed analysis.  Enjoy!
+
+[![IGM-Vis](http://img.youtube.com/vi/3ZVaExEVZOk/1.jpg)](https://www.youtube.com/watch?v=3ZVaExEVZOk "IGM-Vis")
 
 ### `>> ` [Click here to run!](https://igm-vis.github.io/igm-vis/intergalactic.html) `<<`
 
